@@ -5,7 +5,3 @@ Node api to manager REST requests
 
 > node server.js
 
-
-Stop here:
-
-exports.read_a_message = function(req, res) {
